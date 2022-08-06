@@ -1,4 +1,4 @@
-# Windows-Vista-X64-bit-
+# Windows-Vista
 ISO file of Win vista for VB tools....
 
 Download Link:  https://drive.google.com/file/d/16V8Uu601aX5owGDzArSyTClB7haUyphC/view?usp=sharing
